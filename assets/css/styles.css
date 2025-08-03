@@ -840,7 +840,7 @@ img.title-top-shape {
   display: flex;
   border-radius: 10px;
   overflow: hidden;
-  background: url(../images/bg/take-toure-bg.jpg) center/cover no-repeat;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1_ICzEq_iAtZuu7ZMRo0Ta8w7v2fLE0jFQ&s) center/cover no-repeat;
 }
 
 .video-area:before {
@@ -1298,7 +1298,15 @@ span.post-date i {
   font-size: 24px;
   font-weight: 300;
 }
-
+.slider-bg-1 {
+  background: url(assets\images\bg\slider-bg1.jpg) center/cover no-repeat;
+}
+.slider-bg-2 {
+  background: url(assets/images/bg/slider-bg2.jpg) center/cover no-repeat;
+}
+.slider-bg-3 {
+  background: url(assets/images/bg/slider-bg3.jpg) center/cover no-repeat;
+}
 .form-input {
   display: inline-block;
   position: relative;
@@ -2294,7 +2302,6 @@ h4.comment-title {
 .cnt-addres-single .content p {
   font-size: 16px;
 }
-
 
 .contact-form form input,
 .contact-form form textarea {
