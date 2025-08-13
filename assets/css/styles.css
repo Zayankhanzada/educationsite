@@ -175,7 +175,9 @@ a:hover {
 .primary-bg {
   background-color: #fc9928;
 }
-
+.bg-lightyellow{
+ background: #FFFFE0;
+}
 /*============================================
     1. Home One / 1.1 Header Top
 *=============================================*/
